@@ -1,4 +1,4 @@
-# TwitterAPI-Mathematica. Se trata de obtener la localización de los distintos seguidores de cualquier cuanta que le especifiquemos.
+# TwitterAPI-Mathematica.
 
 ###NOTA1:SI quieres visualizar la libreta con el codigo usado, descarga el archivo y abrelo a parte, no en Github.
 
